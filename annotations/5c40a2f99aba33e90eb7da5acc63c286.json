@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "UKIAH VALLEY, TWELVE THOUSAND ACRES.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>UKIAH VALLEY, TWELVE THOUSAND ACRES.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:24:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229047278",
+    "dcterms:modified" : "2022-03-25T17:24:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=290,1176,378,26"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.12784,1176.41684h189.1625v0h189.1625v12.96962v12.96962h-189.1625h-189.1625v-12.96962z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_36a4e13e-c7aa-4341-a562-b5ce3dc8d9b7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ed875365-9942-4556-84ab-b0d6effd94f8"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "MENDOCINO\nCOUNTY\nCALIFORNIA",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>MENDOCINO</p>\n<p>COUNTY</p>\n<p>CALIFORNIA</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:24:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229088372",
+    "dcterms:modified" : "2022-03-25T17:24:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=149,141,695,345"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M149.28182,141.07272h347.25455v0h347.25455v172.49091v172.49091h-347.25455h-347.25455v-172.49091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8d906843-953b-4f72-ab0d-73c40c7dff3e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ed875365-9942-4556-84ab-b0d6effd94f8"
+    } ]
+  } ],
+  "@id" : "https://sourslaw.github.io/project-c/annotations/5c40a2f99aba33e90eb7da5acc63c286.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
