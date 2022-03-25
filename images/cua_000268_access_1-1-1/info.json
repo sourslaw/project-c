@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 40
+  }, {
+    "width" : 63,
+    "height" : 80
+  }, {
+    "width" : 125,
+    "height" : 160
+  }, {
+    "width" : 249,
+    "height" : 320
+  }, {
+    "width" : 498,
+    "height" : 639
+  }, {
+    "width" : 995,
+    "height" : 1277
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 995,
+  "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_1-1-1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1277
+}
