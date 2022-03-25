@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "GENERAL DESCRIPTION.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>GENERAL DESCRIPTION.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:29:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229367982",
+    "dcterms:modified" : "2022-03-25T17:29:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=263,256,392,37"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M262.68543,256.11142h195.79057v0h195.79057v18.53741v18.53741h-195.79057h-195.79057v-18.53741z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d6ec3d75-404a-4ed9-8ebd-fd97e890fe20\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "OPPORTUNITIES IN MENDOCINO COUNTY",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>OPPORTUNITIES IN MENDOCINO COUNTY</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:29:09",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229349802",
+    "dcterms:modified" : "2022-03-25T17:29:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=114,156,692,43"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M113.6174,155.89762h346.11127v0h346.11127v21.6691v21.6691h-346.11127h-346.11127v-21.6691z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_28a1f0ab-5c45-487b-905b-14f2d823c436\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<pre style=\"overflow-wrap: break-word; white-space: pre-wrap;\">Mendocino, one of the beautiful North Coast counties, is\nsituated in the extreme western part of the State, and has a\ncoast line on the Pacific Ocean of more than 100 miles. Its\nsouthern boundary is about ninety miles north of San Fran&shy;\ncisco. It contains 3,780 square miles and about 2,419,200\nacres of land, being about twice as large as the State of Dela&shy;\nware. Its population is about 25,000, or about seven per&shy;\nsons to the square mile.\nIt is in the valleys and along the coast of Mendocino\nCounty that the agricultural features of the county are\ndemonstrated. Ukiah and Sanel Valleys, which are con&shy;\nnected by the winding Russian River, are famous for their\nhop fields, pear and prune orchards and vineyards; Potter,\nLittle Lake and Round Valleys for general farming, and\nSherwood Valley for dairying and hay raising; Anderson\nValley and the open places in the redwoods for apple\norchards; and the long, narrow strip along the coast line for\ngeneral farming, hay raising and dairying.\nThe most important single industry in this county is lum&shy;\nbering. Originally the whole ocean slope was covered with\nredwood timber, and roughly speaking, the redwood belt is\nabout thirty miles wide and runs the full length of the\ncounty north and south.\nDiversified agriculture is carried on in the valleys and\nalong the coast. Here grain, hay, fruit, berries and vege&shy;\ntables are grown extensively, also dairying, hog raising, wool\ngrowing, poultry and stock raising are very profitable. The\nwine industry is a very thriving one in Redwood, Ukiah, and\nSanel Valleys, and many new vineyards are coming into\nbearing. Cereals, potatoes, and fruits of all kinds can be",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<pre style=\"overflow-wrap: break-word; white-space: pre-wrap;\">Mendocino, one of the beautiful North Coast counties, is\nsituated in the extreme western part of the State, and has a\ncoast line on the Pacific Ocean of more than 100 miles. Its\nsouthern boundary is about ninety miles north of San Fran&shy;\ncisco. It contains 3,780 square miles and about 2,419,200\nacres of land, being about twice as large as the State of Dela&shy;\nware. Its population is about 25,000, or about seven per&shy;\nsons to the square mile.\nIt is in the valleys and along the coast of Mendocino\nCounty that the agricultural features of the county are\ndemonstrated. Ukiah and Sanel Valleys, which are con&shy;\nnected by the winding Russian River, are famous for their\nhop fields, pear and prune orchards and vineyards; Potter,\nLittle Lake and Round Valleys for general farming, and\nSherwood Valley for dairying and hay raising; Anderson\nValley and the open places in the redwoods for apple\norchards; and the long, narrow strip along the coast line for\ngeneral farming, hay raising and dairying.\nThe most important single industry in this county is lum&shy;\nbering. Originally the whole ocean slope was covered with\nredwood timber, and roughly speaking, the redwood belt is\nabout thirty miles wide and runs the full length of the\ncounty north and south.\nDiversified agriculture is carried on in the valleys and\nalong the coast. Here grain, hay, fruit, berries and vege&shy;\ntables are grown extensively, also dairying, hog raising, wool\ngrowing, poultry and stock raising are very profitable. The\nwine industry is a very thriving one in Redwood, Ukiah, and\nSanel Valleys, and many new vineyards are coming into\nbearing. Cereals, potatoes, and fruits of all kinds can be</pre>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:29:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229399582",
+    "dcterms:modified" : "2022-03-25T17:29:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=112,301,681,847"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M112.36473,1148.01424h340.47425v0h340.47425v-423.65598v-423.65598h-340.47425h-340.47425v423.65598z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bc930b16-a2d0-4368-9d1b-2b139282380b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9"
+    } ]
+  } ],
+  "@id" : "https://sourslaw.github.io/project-c/annotations/1b2697ee7845eadcbd2209ddce1711c6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
