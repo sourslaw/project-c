@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sourslaw.github.io/project-c/annotations/df8ebbc80daafbb00ff4ae125dfcc758.json" ],
+  "otherContent" : [ ],
   "@id" : "https://sourslaw.github.io/project-c/annotations/collection.json",
   "label" : "All annotations loaded in sourslaw/project-c project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
