@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://bc4d6fc6-a0a6-4e8f-bdab-2e7dccc530e7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ed875365-9942-4556-84ab-b0d6effd94f8",
+      "@type" : "sc:Canvas",
+      "label" : "Page-1",
+      "height" : 1277,
+      "width" : 995,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d84e5a99-8663-4e2a-843c-fa6605ae0e9a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_1-1-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_1-1-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1277,
+          "width" : 995
+        },
+        "on" : "http://ed875365-9942-4556-84ab-b0d6effd94f8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f1c8f152-d1ea-41d6-ba52-6bfd4060642d",
+      "@type" : "sc:Canvas",
+      "label" : "Page-2",
+      "height" : 1280,
+      "width" : 973,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f49a2f63-33b4-4a20-ab50-421489104837",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_2-2-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_2-2-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 973
+        },
+        "on" : "http://f1c8f152-d1ea-41d6-ba52-6bfd4060642d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0a3527ef-4284-4d56-b889-5ad43035d657",
+      "@type" : "sc:Canvas",
+      "label" : "Page-3",
+      "height" : 1280,
+      "width" : 973,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://638ac6e5-038f-42d7-9ffe-b98d3ca31f5f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_3-3-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_3-3-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1280,
+          "width" : 973
+        },
+        "on" : "http://0a3527ef-4284-4d56-b889-5ad43035d657"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://222e9b1f-39e2-41a7-abd8-1c21393055f4",
+      "@type" : "sc:Canvas",
+      "label" : "Page-4",
+      "height" : 1289,
+      "width" : 974,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://259c13d9-2896-4cfd-ae45-f880c30213e6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_4-4-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_4-4-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1289,
+          "width" : 974
+        },
+        "on" : "http://222e9b1f-39e2-41a7-abd8-1c21393055f4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9",
+      "@type" : "sc:Canvas",
+      "label" : "Page-5",
+      "height" : 1289,
+      "width" : 974,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://13700c2d-9916-4f38-8a54-37bf43ce9e5f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1289,
+          "width" : 974
+        },
+        "on" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
