@@ -2,10 +2,15 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Mendocino County, California",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://dev.gdmrdigital.com/search-api/1240244679/113518421407148502520/manifests/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "University of California, Davis, Library, Special Collections",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -42,6 +47,11 @@
         },
         "on" : "http://ed875365-9942-4556-84ab-b0d6effd94f8"
       } ],
+      "otherContent": [ {
+        "@id": "https://sourslaw.github.io/project-c/annotations/5c40a2f99aba33e90eb7da5acc63c286.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }],
       "related" : ""
     }, {
       "@id" : "http://f1c8f152-d1ea-41d6-ba52-6bfd4060642d",
@@ -68,6 +78,11 @@
         },
         "on" : "http://f1c8f152-d1ea-41d6-ba52-6bfd4060642d"
       } ],
+      "otherContent": [ {
+        "@id": "https://sourslaw.github.io/project-c/annotations/8492d87803e02099e2783e7a1a921d57.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }],
       "related" : ""
     }, {
       "@id" : "http://0a3527ef-4284-4d56-b889-5ad43035d657",
@@ -94,6 +109,11 @@
         },
         "on" : "http://0a3527ef-4284-4d56-b889-5ad43035d657"
       } ],
+      "otherContent": [ {
+        "@id": "https://sourslaw.github.io/project-c/annotations/0791cdfa27bcddb509e11e54fd4003c6.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }],
       "related" : ""
     }, {
       "@id" : "http://222e9b1f-39e2-41a7-abd8-1c21393055f4",
@@ -120,6 +140,11 @@
         },
         "on" : "http://222e9b1f-39e2-41a7-abd8-1c21393055f4"
       } ],
+      "otherContent": [ {
+        "@id": "https://sourslaw.github.io/project-c/annotations/07940e254fb4e347463d6f2dff3ebae9.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }],
       "related" : ""
     }, {
       "@id" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9",
@@ -146,6 +171,11 @@
         },
         "on" : "http://a7796c66-6db9-4b09-986b-64a457c00bb9"
       } ],
+      "otherContent": [ {
+        "@id": "https://sourslaw.github.io/project-c/annotations/1b2697ee7845eadcbd2209ddce1711c6.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }],
       "related" : ""
     } ]
   } ],
