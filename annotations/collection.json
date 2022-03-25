@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sourslaw.github.io/project-c/annotations/5c40a2f99aba33e90eb7da5acc63c286.json", "https://sourslaw.github.io/project-c/annotations/8492d87803e02099e2783e7a1a921d57.json" ],
+  "otherContent" : [ "https://sourslaw.github.io/project-c/annotations/5c40a2f99aba33e90eb7da5acc63c286.json", "https://sourslaw.github.io/project-c/annotations/8492d87803e02099e2783e7a1a921d57.json", "https://sourslaw.github.io/project-c/annotations/0791cdfa27bcddb509e11e54fd4003c6.json" ],
   "@id" : "https://sourslaw.github.io/project-c/annotations/collection.json",
   "label" : "All annotations loaded in sourslaw/project-c project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
