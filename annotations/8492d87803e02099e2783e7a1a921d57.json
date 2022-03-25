@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "HILLSIDE VINEYARDS ALONG THE SCENIC NORTHWESTERN PACIFIC",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>HILLSIDE VINEYARDS ALONG THE SCENIC NORTHWESTERN PACIFIC</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T17:25:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648229141731",
+    "dcterms:modified" : "2022-03-25T17:25:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sourslaw.github.io/project-c/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=903,306,19,671"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M921.77459,977.03034h-9.57337v0h-9.57337v-335.48202v-335.48202h9.57337h9.57337v335.48202z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0b7ee2be-9aee-49d6-b7b7-4b0560d61df4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f1c8f152-d1ea-41d6-ba52-6bfd4060642d"
+    } ]
+  } ],
+  "@id" : "https://sourslaw.github.io/project-c/annotations/8492d87803e02099e2783e7a1a921d57.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
