@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "CARDIGANSHIRE CONSTABULARY",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>CARDIGANSHIRE CONSTABULARY</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/113518421407148502520",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-23T20:27:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648067244873",
+    "dcterms:modified" : "2022-03-23T20:27:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=782,1226,1764,527"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M781.88889,1225.7471h881.90909v0h881.90909v263.72727v263.72727h-881.90909h-881.90909v-263.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dc82ec92-f0f2-4df4-85f0-c05a2df89bf8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389768.json"
+    } ]
+  } ],
+  "@id" : "https://sourslaw.github.io/project-c/annotations/df8ebbc80daafbb00ff4ae125dfcc758.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
