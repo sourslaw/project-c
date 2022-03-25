@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 974,
+    "id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/canvas/",
+    "label" : {
+      "none" : [ "cua_000268_access_5-5-1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 31,
+              "height" : 41
+            }, {
+              "width" : 61,
+              "height" : 81
+            }, {
+              "width" : 122,
+              "height" : 162
+            }, {
+              "width" : 244,
+              "height" : 323
+            }, {
+              "width" : 487,
+              "height" : 645
+            }, {
+              "width" : 974,
+              "height" : 1289
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 974,
+            "@id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1289
+          } ],
+          "format" : "image/jpeg",
+          "width" : 974,
+          "id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1289
+        },
+        "target" : "https://sourslaw.github.io/project-c/images/cua_000268_access_5-5-1/canvas/"
+      } ]
+    } ],
+    "height" : 1289
+  }, {
+    "width" : 974,
     "id" : "https://sourslaw.github.io/project-c/images/cua_000268_access_4-4-1/canvas/",
     "label" : {
       "none" : [ "cua_000268_access_4-4-1" ]
